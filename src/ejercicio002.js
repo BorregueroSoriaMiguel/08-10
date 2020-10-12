@@ -1,0 +1,1 @@
+db.colordenadores.insertOne( { memoria: "16Gb", procesador: "i5", almacenamientoC: "120Gb" } );
